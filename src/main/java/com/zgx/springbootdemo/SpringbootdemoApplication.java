@@ -10,7 +10,7 @@ public class SpringbootdemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringbootdemoApplication.class, args);
-        System.out.println("版本1.1.0");
+        System.out.println("版本1.1.0,zhende");
     }
 
 }
