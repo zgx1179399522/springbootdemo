@@ -1,0 +1,4 @@
+server.port=80
+#web.upload-path=D:/java/up_load/
+#spring.mvc.static-path-pattern=img/**
+#spring.resources.static-locations=classpath:/META-INF/resources/,classpath:/public/,classpath:/static/,classpath:/resources/,file:${web.upload-path}
